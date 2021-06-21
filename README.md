@@ -6,8 +6,8 @@
 2. Update the recipients list, and save.
 3. Run the 'resetSheetUpdate' script to initialize the script properties.
 4. Add two triggers to call the script:
-  1. An On-change trigger, that alls the 'receiveUpdate' function, and
-  2. An Time-based trigger, set for say 6 hourly, that calls the 'processUpdates' function.
+    1. An On-change trigger, that alls the 'receiveUpdate' function, and
+    2. An Time-based trigger, set for say 6 hourly, that calls the 'processUpdates' function.
 
 ## In Use
 
